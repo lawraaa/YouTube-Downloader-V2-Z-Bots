@@ -54,19 +54,19 @@ Press the below button to  deploy on Heroku <br>
 
 </details>
 
-# Demo Bot:
-<a href="https://telegram.me/TG_Utubebot"><img src="https://img.shields.io/badge/@TG_Utubebot-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+# Tutorial:
+<a href="https://youtu.be/hIJRofd0JIA"><img src="https://img.shields.io/badge/%E2%9A%A1-Click%20here%20Tutorial-blue"></a>
 
 ### Support:
 
-* Join MyTestBotZ Channel
+* Join Z_Bots Channel
 
-<a href="https://telegram.me/MyTestBotZ"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/MyTestBotZ"><img src="https://img.shields.io/badge/%E2%9A%A1-Join%20Telegram%20Channel-yellow"></a>
 
 ### Follow on:
 
 <p align="left">
-<a href="https://github.com/OO7ROBot"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/madtoazenzio"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
 ## Credit & Thanks ❤️
