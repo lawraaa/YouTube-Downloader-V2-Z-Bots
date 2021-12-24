@@ -5,12 +5,12 @@ from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, Inl
 async def start(client, message):
     # return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("Channel", url="https://t.me/Z_Bots"), InlineKeyboardButton("Creator", url="https://github.com/madtoazenzio") ],
+        [InlineKeyboardButton("⛄Cʜᴀɴɴᴇʟ", url="https://t.me/Z_Bots"), InlineKeyboardButton("⛄Cʀᴇᴀᴛᴏʀ", url="https://github.com/madtoazenzio") ],
         [InlineKeyboardButton(
-            "⚡ Join Now ⚡", url="https://t.me/Z_Bots")]
+            "⛄ Jᴏɪɴ ɴᴏᴡ ⛄", url="https://t.me/Z_Bots")]
     ])
-    welcomed = f"""Hey <b>{message.from_user.first_name}</b>\nA Simple YouTube Downloader Bot that can:
-  ➠ Download YouTube videos
-  ➠ Download audio from YouTube videos \n\n Made with ♥️ by @Z_Bots"""
+    welcomed = f"""Hᴇʏ <b>{message.from_user.first_name}</b>\n\nA Sɪᴍᴘʟᴇ Yᴏᴜᴛᴜʙᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛ Tʜᴀᴛ Cᴀɴ:
+  ➠ Dᴏᴡɴʟᴏᴀᴅ Yᴏᴜᴛᴜʙᴇ Vɪᴅᴇᴏs
+  ➠ Dᴏᴡɴʟᴏᴀᴅ Aᴜᴅɪᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ Vɪᴅᴇᴏs \n\n Mᴀᴅᴇ Wɪᴛʜ ♥️ Bʏ @ᴢ_ʙᴏᴛs"""
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
