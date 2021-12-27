@@ -12,7 +12,7 @@ async def start(client, message):
     
     welcomed = f"""Hᴇʏ <b>{message.from_user.first_name}</b>\n\nA Sɪᴍᴘʟᴇ Yᴏᴜᴛᴜʙᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛ Tʜᴀᴛ Cᴀɴ:
   ➠ Dᴏᴡɴʟᴏᴀᴅ Yᴏᴜᴛᴜʙᴇ Vɪᴅᴇᴏs
-  ➠ Dᴏᴡɴʟᴏᴀᴅ Aᴜᴅɪᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ Vɪᴅᴇᴏs \n\n Mᴀᴅᴇ Wɪᴛʜ ♥️ Bʏ @Z_Bots
+  ➠ Dᴏᴡɴʟᴏᴀᴅ Aᴜᴅɪᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ Vɪᴅᴇᴏs \n\n Mᴀᴅᴇ Wɪᴛʜ ♥️ Bʏ <a href="https://telegra.ph/file/e981d066dc5b3b2525c5c.jpg">ᴢ_ʙᴏᴛs</a>
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/space4aysn">Asʏɴ Eᴅɪᴛᴢ🇮🇳</a>"""
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
