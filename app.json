@@ -13,10 +13,10 @@
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
         "AUTH_USERS": {"description": "Authorize user(s) ID separate by space","required": true}
-        "START_PIC": {"description": "Authorize user(s) ID separate by space","required": true}
+        
    
         },
-  },
+},
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
         {"url": "heroku/python"}
