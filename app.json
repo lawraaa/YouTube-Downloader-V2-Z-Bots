@@ -1,13 +1,13 @@
 {
   "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
+  "description": "A telegram bot To Download Youtube Files By XRoid ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/OO7ROBOT/YoutubeDownloaderBot",
+  "repository": "https://github.com/madtoazenzio/YouTube-Downloader-V2-Z-Bots",
   "success_url": "https://t.me/tg_utubebot",
-  "website": "https://github.com/OO7ROBot/YoutubeDownloaderBot",
+  "website": "https://github.com/madtoazenzio/YouTube-Downloader-V2-Z-Bots",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
