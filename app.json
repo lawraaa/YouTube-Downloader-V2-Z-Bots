@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/madtoazenzio/YouTube-Downloader-V2-Z-Bots",
+  "repository": "https://github.com/lawraaa/YouTube-Downloader-V2-Z-Bots",
   "success_url": "https://t.me/tg_utubebot",
-  "website": "https://github.com/madtoazenzio/YouTube-Downloader-V2-Z-Bots",
+  "website": "https://github.com/lawraaa/YouTube-Downloader-V2-Z-Bots",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
