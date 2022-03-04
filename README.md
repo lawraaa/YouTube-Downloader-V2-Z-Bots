@@ -59,9 +59,9 @@ Press the below button to  deploy on Heroku <br>
 
 ### Support:
 
-* Join Z_Bots Channel
+* Join me। @JamesbonddOO7
 
-<a href="https://telegram.me/MyTestBotZ"><img src="https://img.shields.io/badge/%E2%9A%A1-Join%20Telegram%20Channel-yellow"></a>
+<a href="https://telegram.me/nothing"><img src="https://img.shields.io/badge/%E2%9A%A1-Join%20Telegram%20Channel-yellow"></a>
 
 ### Follow on:
 
@@ -73,9 +73,9 @@ Press the below button to  deploy on Heroku <br>
 <details>
   <summary><b>Everyone in this journey and 👇</b></summary>
   
-* [Aryan Vikash](https://github.com/aryanvikash) Original base Repo Owner
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Meeee](https://telegram.me/OO7ROBot) for No Reason 😌
+* [@JamesbonddOO7](https://github.com/lawraaa) Original base Repo Owner
+* [@JamesbonddOO7](https://telegram.dog/@JamesbonddOO7) for his [@JamesbonddOO7](https://github.com/lawraaa/AnyDLBot)
+* [@JamesbonddOO7](https://telegram.me/@JamesbonddOO7) for No Reason 😌
 </details>
 
 * I dont own the source code . As mention above I just made some changes I dont own it's base code 😇
